@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class cn.edu.gdmec.07120833.testlightplugin.testlightplugin { <init>(...); }
+

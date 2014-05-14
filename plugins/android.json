@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"res/xml/config.xml":{"/*":{"<feature name=\"LightSensor\"><param name=\"android-package\" value=\"cn.edu.gdmec.07120833.lightsensor.LightSensorListener\" /></feature>":1}}},"installed_plugins":{"cn.edu.gdmec.07120833.lightsensor":{"PACKAGE_NAME":"cn.edu.gdmec.07120833.testlightplugin"}},"dependent_plugins":{}}
